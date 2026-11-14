@@ -27,7 +27,7 @@ A console-based application built in C to streamline employee record management 
 4. Run: `./payroll` (or `payroll.exe` on Windows)
 
 ## 👨‍💻 Authors
-**Arnab Chatterjee**
+**Arnab Chatterjee(Group Leader)**
 **Arpita Mondal**
 **Arijit Chakraborty**
 **Aparajita Char**
