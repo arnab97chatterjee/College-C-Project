@@ -1,9 +1,0 @@
-1. Problem statement and required results
-Develop an employee payroll management system that stores employee information, attendance, salary components, allowances and deductions; calculates gross and net salary using configurable payroll rules; generates individual salary slips; and maintains monthly payroll records.
-•	Maintain employee ID, designation, department and basic salary.
-•	Record attendance and applicable leave information.
-•	Calculate allowances, bonuses and deductions.
-•	Compute gross salary and net payable salary.
-•	Generate employee-wise salary slips.
-•	Produce monthly payroll summaries and department-wise salary reports.
-•	Keep employee, attendance and payroll records permanently so they remain available after closing and reopening the program.
